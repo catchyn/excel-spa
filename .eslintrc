@@ -10,6 +10,10 @@
   "rules": {
     "linebreak-style": "off",
     "object-curly-spacing": "off",
-    "require-jsdoc": "off"
+    "require-jsdoc": "off",
+    "indent": "off",
+    "spaced-comment": "off",
+    "operator-linebreak": "off",
+    "arrow-parens": "off"
   }
 }
